@@ -1,0 +1,21 @@
+{
+  "name": "vacinaja",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lincolnaleixo/vacinaja",
+  "author": "lincoln <lincolnmorais@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "alertguy": "^1.0.7",
+    "cheerio": "^1.0.0-rc.9",
+    "cron": "^1.8.2",
+    "dotenv": "^9.0.2",
+    "jsonfile": "^6.1.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6",
+    "spidering": "^0.2.5"
+  },
+  "devDependencies": {
+    "eslint-config-node-script-js": "^1.0.24"
+  }
+}

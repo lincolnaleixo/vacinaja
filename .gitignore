@@ -1,0 +1,6 @@
+.env
+node_modules
+archive
+test.js
+infotest.json
+docker.sh
